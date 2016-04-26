@@ -3,7 +3,7 @@ Miguel Soeiro - 21502788
 André Cerveira - 21402048
 João Batista - 21404080
 
-Para cumpilar basta fazer:
+Para compilar basta fazer:
 make teste
 
 Para executar basta fazer:
